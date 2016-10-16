@@ -1,2 +1,6 @@
-# hello-world
-不明觉厉
+# include <stdio.h>
+int main(void)
+{
+
+  return 0;
+}
